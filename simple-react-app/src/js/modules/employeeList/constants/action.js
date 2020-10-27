@@ -1,0 +1,1 @@
+export const LOAD_EMPLOYEE_DATA = 'LOAD_EMPLOYEE_DATA';
